@@ -7,3 +7,7 @@ desktop.ini
 # Local dev
 .vscode/
 .idea/
+
+# Source videos (unused originals kept locally, not deployed — only *_60fps.mp4 are referenced)
+videos/hero.mp4
+videos/services.mp4
